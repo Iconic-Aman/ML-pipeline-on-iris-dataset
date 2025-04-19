@@ -6,5 +6,7 @@
 
 ## 📂 Project Structure
 
+### Here the main file is main.ipynb 
+
 
 
